@@ -1,7 +1,7 @@
 ﻿## Interface: 11200
 ## Title: Mail
 ## Notes: Mailbox enhancement
-## Author: shirsig
+## Author: shirsig | a Project Legacy fork by ziq
 ## SavedVariablesPerCharacter: Mail_To
 ## SavedVariables: Mail_AutoCompleteNames
 Mail.xml
