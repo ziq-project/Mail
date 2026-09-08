@@ -1,5 +1,5 @@
 ﻿## Interface: 11200
-## Title: Mail
+## Title: Mail |cff7fff7f - Project Legacy|r
 ## Notes: Mailbox enhancement
 ## Author: shirsig | a Project Legacy fork by ziq
 ## SavedVariablesPerCharacter: Mail_To
